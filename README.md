@@ -49,6 +49,7 @@ In the past tcpdump certainly or likely worked on the following platforms:
 * DOS
 * IRIX
 * LynxOS
+* OpenVMS
 * SINIX
 * SunOS
 * Ultrix
